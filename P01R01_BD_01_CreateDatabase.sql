@@ -3,6 +3,7 @@ Proyecto P01R01_BD_JAGJ
 Auto: Jose Angel Garcia Juarez
 Fecha: 20260930
 Descripción: Creacion de la Base de Datos
+cambio para muestra de git GenDic
 */
 
 --ACID PARA BD SON LAS BUENAS PRACTICAS EN CREACION DE BASE DE DATOS-VALIDACIONES, SEGMENTADO, PERSISTENTE, AISLAMIENTO, DURABILIDAD
